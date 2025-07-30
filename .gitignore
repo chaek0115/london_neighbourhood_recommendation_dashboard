@@ -1,0 +1,6 @@
+*.csv
+/2024_crime_report/
+/data/
+/*.zip
+.DS_Store
+.env
