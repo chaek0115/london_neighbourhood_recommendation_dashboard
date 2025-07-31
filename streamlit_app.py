@@ -38,48 +38,82 @@ df = load_data()
 
 
 
-# custom CSS for multiselect tag options only
+# custom CSS 
 st.markdown("""
     <style>
-    div[data-baseweb="tag"] {
-        background-color: #f0f0f0 !important;
-        color: #000000 !important;
-        border: 1px solid #ccc !important;
-        border-radius: 8px !important;
-        font-weight: 500;
+    /* Sidebar wrapper */
+    section[data-testid="stSidebar"] {
+        border-right: none !important;
+        box-shadow: none !important;
+        padding: 1rem 0.5rem !important;
+        width: 320px !important;
     }
-    div[data-baseweb="tag"] span {
-        color: #000000 !important;
-    }
-    input[type=number]::-webkit-inner-spin-button, 
-    input[type=number]::-webkit-outer-spin-button {
-        -webkit-appearance: none;
-        margin: 0;
-    }
-    </style>
-""", unsafe_allow_html=True)
 
-st.markdown("""
-    <style>
-    /* Make the main container full width */
+    section[data-testid="stSidebar"] > div {
+        width: 280px;
+        margin: auto;
+    }
+
     .block-container {
         padding-left: 3rem !important;
         padding-right: 3rem !important;
         max-width: 90% !important;
     }
 
-    /* Widen the sidebar */
-    section[data-testid="stSidebar"] > div {
-        width: 320px;
-    }
-
-    /* Prevent text wrapping in cards */
     .element-container {
         overflow: visible !important;
     }
+
+    /* 🌞 Light mode */
+    @media (prefers-color-scheme: light) {
+        section[data-testid="stSidebar"] {
+            background-color: #f5f5f5 !important;  /* light grey */
+            color: #000000 !important;             /* black text */
+        }
+
+        [data-baseweb="tag"] {
+            background-color: #d4edda !important;  /* sage green */
+            border: 1px solid #b2d8c2 !important;
+            border-radius: 8px !important;
+            font-weight: 500 !important;
+        }
+
+        [data-baseweb="tag"] span,
+        [data-baseweb="tag"] svg path {
+            color: #000000 !important;
+            fill: #000000 !important;
+        }
+    }
+
+    /* 🌙 Dark mode */
+    @media (prefers-color-scheme: dark) {
+        section[data-testid="stSidebar"] {
+            background-color: #374151 !important;   /* Tailwind Grey 700 */
+            color: #ffffff !important;              /* white text */
+        }
+
+        [data-baseweb="tag"] {
+            background-color: #4d5c34 !important;   /* dark olive green */
+            border: 1px solid #3d4a2c !important;
+            border-radius: 8px !important;
+            font-weight: 500 !important;
+        }
+
+        [data-baseweb="tag"] span,
+        [data-baseweb="tag"] svg path {
+            color: #ffffff !important;
+            fill: #ffffff !important;
+        }
+    }
+
+    /* Remove number spinner buttons */
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
     </style>
 """, unsafe_allow_html=True)
-
 
 
 # sidebar filters 
@@ -276,7 +310,7 @@ else:
                 st.markdown(
                     f"""
                     <div style='background-color:#f9f9f9; border-radius:10px; padding:10px; border:1px solid #ccc;'>
-                        <div style='font-size:20px; font-weight:bold;'>🗺️ Map for {row['ward']} | {row['outcode']}</div>
+                        <div style='font-size:25px; font-weight:bold; color:black;'>🗺️ {row['ward']} | {row['outcode']}</div>
                     </div>
                     """, unsafe_allow_html=True
                 )
@@ -300,7 +334,7 @@ else:
                         border-radius: 10px;
                         border: 1px solid #ccc;
                         margin: 6px 3px;
-                        font-size: 16px;
+                        font-size: 20px;
                         overflow: hidden;
                     '>
                         <div style='
@@ -312,7 +346,7 @@ else:
                             border-top-left-radius: 10px;
                             border-top-right-radius: 10px;
                         '>
-                            <div style='font-weight: bold; font-size: 18px;'>📍 {row['ward']}</div>
+                            <div style='font-weight: bold; font-size: 25px;'>📍 {row['ward']}</div>
                         </div>
                         <div style='padding: 15px;'>
                             📫 <strong>{row['outcode']} | {row['district']}</strong><br>
