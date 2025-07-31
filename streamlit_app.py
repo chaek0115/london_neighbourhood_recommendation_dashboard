@@ -173,6 +173,8 @@ df_filtered = df[
 if livingroom is not None:
     df_filtered = df_filtered[df_filtered["livingrooms"] == livingroom]
 
+
+
 # filter by school data
 school_filter = (
     ((df["num_good"] > 0) & ("Good" in school)) | 
@@ -183,93 +185,6 @@ school_filter = (
 df_filtered = df_filtered[school_filter]
 
 
-
-
-
-
-# Commute settings
-work_address = st.sidebar.text_input("Enter your work address (optional)")
-work_address = work_address.strip().lower()
-
-def extract_minutes(duration_str):
-    if pd.isna(duration_str) or not isinstance(duration_str, str):
-        return None
-    
-    try:
-        duration_str = duration_str.lower().replace("hr", "hour")
-        hour_minutes = duration_str.split("hour")
-        total_minutes = 0
-        
-        if len(hour_minutes) == 2:
-            hours = int(hour_minutes[0].strip())
-            minutes_part = hour_minutes[1].replace("mins", "").strip()
-            minutes = int(hour_minutes[1].replace("mins","")).strip()
-            total_minutes = hours * 60 + minutes
-        elif "mins" in hour_minutes[0]:
-            minutes = int(hour_minutes[0].replace("mins","").strip()) 
-            total_minutes = minutes
-        else:
-            return None
-        return total_minutes
-    except Exception as e:
-        return None
-
-
-
-
-
-# commute time calculation
-if work_address:
-    with st.spinner("Calculating commute times..."):
-        df_area_outcode = df[["area name", "outcode", "latitude", "longitude"]].drop_duplicates()
-        commute_results = []
-        
-        for _, row in df_area_outcode.iterrows():
-            lat = float(row["latitude"])
-            lng = float(row["longitude"])
-            origin = f"{lat:.4f}, {lng:.4f}"
-            key = f"{origin}|{work_address.strip().lower()}"
-            
-            if key in commute_cache:
-                durations = commute_cache[key]
-            else:
-                durations = get_commute_times_all_modes(origin, work_address, api_key)
-                time.sleep(0.5)  # avoid hitting API rate limits
-                
-                if durations and any(extract_minutes(v) is not None for v in durations.values()):
-                    commute_cache[key] = durations
-                    with open(CACHE_FILE, "w") as f:
-                        json.dump(commute_cache, f)
-            
-            if not durations:
-                continue
-            
-            valid_durations = {k: v for k, v in durations.items() if extract_minutes(v) is not None}
-            if not valid_durations:
-                continue
-            
-            best_mode = min(valid_durations, key=lambda k: extract_minutes(valid_durations[k]))
-            best_time = valid_durations[best_mode]
-            
-            commute_results.append({
-                "area name": row["area name"],
-                "outcode": row["outcode"],
-                "best_mode": best_mode,
-                "duration_text": best_time,
-                "duration_mins": extract_minutes(best_time)
-            })
-            
-        commute_df = pd.DataFrame(commute_results)
-        df = df.merge(commute_df, on=["outcode","area name"], how="left")
-        
-   
-    
-# apply filters - commute
-if work_address and "duration_mins" in df_filtered.columns:
-    max_commute = st.sidebar.slider("Max Commute Time (mins)", 10, 120, 30)
-    df_filtered = df_filtered[df_filtered["duration_mins"] <= max_commute]    
-    
-    
     
     
 # Sort options
@@ -278,6 +193,8 @@ sort_option = st.sidebar.selectbox("Sort by", [
     "Price: Low to High",
     "Price: High to Low"
 ])
+
+
 
 # apply sorting
 if sort_option == "Price: Low to High":
