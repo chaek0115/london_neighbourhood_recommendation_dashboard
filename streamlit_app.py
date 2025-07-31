@@ -40,6 +40,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+
 # ---- Sidebar Filters ----
 st.sidebar.header("⚙️ Filter Options")
 st.sidebar.markdown("**Budget (£)**")
@@ -66,6 +67,7 @@ tenure = st.sidebar.selectbox("Tenure Type", df["tenure"].unique())
 school = st.sidebar.multiselect("School Rating", ["Good", "Outstanding", "No info"], default=["Good", "Outstanding", "No info"])
 crime = st.sidebar.multiselect("Crime Level", ["High crime", "Medium crime", "Low crime", "No info"], default=["High crime", "Medium crime", "Low crime", "No info"])
 
+
 # ---- Filtering ----
 df_filtered = df[
     (df["median_price"].between(budget_min, budget_max)) &
@@ -82,6 +84,7 @@ school_filter = (
     (((df["num_good"] == 0) & (df["num_outstanding"] == 0)) & ("No info" in school))
 )
 df_filtered = df_filtered[school_filter]
+
 
 # ---- Commute Filtering ----
 work_address = st.sidebar.text_input("Enter your work address (optional)").strip().lower()
@@ -116,12 +119,14 @@ if work_address:
     max_commute = st.sidebar.slider("Max Commute Time (mins)", 10, 120, 30)
     df_filtered = df_filtered[df_filtered["duration_mins"] <= max_commute]
 
+
 # ---- Sorting ----
 sort_option = st.sidebar.selectbox("Sort by", ["Default", "Price: Low to High", "Price: High to Low"])
 if sort_option == "Price: Low to High":
     df_filtered = df_filtered.sort_values("median_price")
 elif sort_option == "Price: High to Low":
     df_filtered = df_filtered.sort_values("median_price", ascending=False)
+
 
 # ---- Main Results ----
 st.title("\U0001F3E0 London Neighbourhood Recommender")
@@ -173,3 +178,5 @@ else:
                         html += "🏫 <strong>School:</strong> No info<br>"
                     html += "</div>"
                     st.markdown(html, unsafe_allow_html=True)
+                    
+                    
