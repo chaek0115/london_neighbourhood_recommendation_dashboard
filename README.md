@@ -2,7 +2,7 @@
 
 ## 🚀 Launch App
 Click the button below to open the interactive dashboard:
-[![Open in Streamlit](https://chaek0115-london-neighbourhood-recommendat-streamlit-app-kxwju5.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-username-your-repo-name.streamlit.app](https://chaek0115-london-neighbourhood-recommendat-streamlit-app-kxwju5.streamlit.app/))
 
 This interactive dashboard helps first-time homebuyers explore and compare neighbourhoods in London based on key factors such as property prices, crime rates, school quality, and commute times.
 It uses real-world datasets combined with Google APIs to generate neighbourhood-level insights, offering an intuitive and user-friendly interface powered by Streamlit.
