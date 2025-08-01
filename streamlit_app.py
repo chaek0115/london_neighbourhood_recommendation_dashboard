@@ -6,9 +6,6 @@ import os
 import time
 import json
 import hashlib 
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # load the main dataset
 @st.cache_data
