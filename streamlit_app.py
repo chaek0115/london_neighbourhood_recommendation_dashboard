@@ -3,29 +3,12 @@ import pandas as pd
 import math
 import sys
 import os 
-sys.path.append(os.path.join(os.path.dirname(__file__), "api"))
-from api_commute import get_commute_times_all_modes
 import time
 import json
 import hashlib 
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
-if not api_key:
-    st.error("Google API key not found.")
-    
-CACHE_FILE = "cache_commute_times.json"
-
-
-# create cache to use API calls less 
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r") as f:
-        commute_cache = json.load(f)
-else:
-    commute_cache = {}
-
-    
 
 # load the main dataset
 @st.cache_data
@@ -34,7 +17,7 @@ def load_data():
     df.columns = df.columns.str.strip().str.lower()
     return df
 
-df = load_data()
+df = load_data() 
 
 
 
