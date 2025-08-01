@@ -41,7 +41,5 @@ It uses real-world datasets combined with Google APIs to generate neighbourhood-
 - **Streamlit** – interactive frontend UI
 - **Google APIs**
   - Geocoding API
-  - Distance Matrix API
-  - Places API
 - **Data Integration** – multiple datasets (crime, schools, housing, population, postcode)
 
