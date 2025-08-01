@@ -1,4 +1,4 @@
-# 🏠 London Neighbourhood Recommendation Dashboard
+# 🏠 London Neighbourhood Recommender
 
 ## 🚀 Launch App
 Click the button below to open the interactive dashboard:
