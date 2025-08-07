@@ -44,7 +44,7 @@ st.markdown("""
         overflow: visible !important;
     }
 
-    /* 🌞 Light mode */
+    /* Light mode */
     @media (prefers-color-scheme: light) {
         section[data-testid="stSidebar"] {
             background-color: #f5f5f5 !important;  /* light grey */
@@ -65,7 +65,7 @@ st.markdown("""
         }
     }
 
-    /* 🌙 Dark mode */
+    /* Dark mode */
     @media (prefers-color-scheme: dark) {
         section[data-testid="stSidebar"] {
             background-color: #374151 !important;   /* Tailwind Grey 700 */
