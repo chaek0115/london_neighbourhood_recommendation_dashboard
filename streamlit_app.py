@@ -188,9 +188,14 @@ elif sort_option == "Price: High to Low":
 
 
 # show results - main screen
-st.title("🏠 Find My Hood")
 st.markdown(
-    f"## Find your perfect London neighbourhood in just one minute! "
+    """
+    <h1 style='text-align: center;'>🏠 Find My Hood</h1>
+    <p style='text-align: center; font-size: 25px; color: grey;'>
+        Find your perfect London neighbourhood in just one minute!
+    </p>
+    """,
+    unsafe_allow_html=True
 )
 st.markdown(f"### 🔎 {len(df_filtered)} neighbourhoods match your search")
 
