@@ -1,1 +1,8 @@
 ,outcode,ward,district,livingrooms,bedrooms,bathrooms,tenure,propertytype_converted,median_price,nearest_station
+0,E17,Wood Street,Waltham Forest,2.0,4.0,1.0,Freehold,House,920000.0,Wood Street
+1,EC4A,Farringdon Without,City of London,1.0,1.0,1.0,Leasehold,Flat,600000.0,Chancery Lane
+2,N10,Muswell Hill,Haringey,2.0,4.0,1.0,Freehold,House,1264000.0,Highgate
+3,SE13,Hither Green,Lewisham,2.0,3.0,1.0,Freehold,Bungalow,726000.0,Hither Green
+4,SE3,Blackheath,Lewisham,1.0,2.0,1.0,Freehold,House,944000.0,Blackheath
+5,SE5,Camberwell Green,Southwark,1.0,1.0,1.0,Leasehold,Flat,388000.0,Denmark Hill
+6,SW1P,St James's,Westminster,1.0,2.0,2.0,Leasehold,Flat,759000.0,St. James's Park

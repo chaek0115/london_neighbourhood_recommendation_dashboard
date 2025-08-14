@@ -1,11 +1,11 @@
 ,postcode,outcode,district,ward,livingrooms,bedrooms,bathrooms,floorareasqm,tenure,propertytype_converted,saleestimate_currentprice,nearest_station,latitude,longitude
-0,EC4A 1JQ,EC4A,,,1.0,1.0,1.0,45.0,Leasehold,Flat,600000.0,,51.5172824,-0.1103144
-1,EC4A 1JQ,EC4A,,,,,,,Leasehold,Flat,600000.0,,51.5172824,-0.1103144
-2,SW1P 2TA,SW1P,,,1.0,2.0,2.0,71.0,Leasehold,Flat,759000.0,,51.4955047,-0.1323791
-3,SE5 7HS,SE5,,,1.0,1.0,1.0,64.0,Leasehold,Flat,388000.0,,51.4781854,-0.0922014
-4,N10 3RL,N10,,,2.0,4.0,1.0,137.0,Freehold,House,1261000.0,,51.588774,-0.1395993
-5,SE3 0UG,SE3,,,1.0,2.0,1.0,97.0,Freehold,House,944000.0,,51.4660886,0.0069669
-6,SE13 6HT,SE13,,,2.0,3.0,1.0,135.0,Freehold,Bungalow,726000.0,,51.4513274,-0.0075694
-7,SW1W 0QY,SW1W,,,,5.0,1.0,346.0,Freehold,House,6024000.0,,51.4975146,-0.1451338
-8,E17 9EJ,E17,,,2.0,4.0,1.0,117.0,Freehold,House,920000.0,,51.583106,-0.0021841
-9,N10 3RL,N10,,,2.0,4.0,1.0,137.0,Freehold,House,1267000.0,,51.588774,-0.1395993
+0,EC4A 1JQ,EC4A,City of London,Farringdon Without,1.0,1.0,1.0,45.0,Leasehold,Flat,600000.0,Chancery Lane,51.5172824,-0.1103144
+1,EC4A 1JQ,EC4A,City of London,Farringdon Without,,,,,Leasehold,Flat,600000.0,Chancery Lane,51.5172824,-0.1103144
+2,SW1P 2TA,SW1P,Westminster,St James's,1.0,2.0,2.0,71.0,Leasehold,Flat,759000.0,St. James's Park,51.4955047,-0.1323791
+3,SE5 7HS,SE5,Southwark,Camberwell Green,1.0,1.0,1.0,64.0,Leasehold,Flat,388000.0,Denmark Hill,51.4781854,-0.0922014
+4,N10 3RL,N10,Haringey,Muswell Hill,2.0,4.0,1.0,137.0,Freehold,House,1261000.0,Highgate,51.588774,-0.1395993
+5,SE3 0UG,SE3,Lewisham,Blackheath,1.0,2.0,1.0,97.0,Freehold,House,944000.0,Blackheath,51.4660886,0.0069669
+6,SE13 6HT,SE13,Lewisham,Hither Green,2.0,3.0,1.0,135.0,Freehold,Bungalow,726000.0,Hither Green,51.4513274,-0.0075694
+7,SW1W 0QY,SW1W,Westminster,St James's,,5.0,1.0,346.0,Freehold,House,6024000.0,Victoria,51.4975146,-0.1451338
+8,E17 9EJ,E17,Waltham Forest,Wood Street,2.0,4.0,1.0,117.0,Freehold,House,920000.0,Wood Street,51.583106,-0.0021841
+9,N10 3RL,N10,Haringey,Muswell Hill,2.0,4.0,1.0,137.0,Freehold,House,1267000.0,Highgate,51.588774,-0.1395993
