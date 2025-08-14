@@ -19,9 +19,9 @@ Click the button below to open the interactive dashboard:
 | File / Folder                   | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
 | `sample/`                       | Contains all sample-mode assets including:                                  |
-|                                 | └── `sample_data/` – Small excerpts of the original datasets (10 rows each) |
-|                                 | └── `data_processing copy.ipynb` – Sample-mode Jupyter Notebook             |
-|                                 | └── `streamlit_app copy.py` – Sample-mode Streamlit dashboard               |
+|                                 | └── `data_sample/` – Small excerpts of the original datasets (10 rows each) |
+|                                 | └── `data_processing_sample.ipynb` – Sample-mode Jupyter Notebook             |
+|                                 | └── `streamlit_app_sample.py` – Sample-mode Streamlit dashboard               |
 | `final_data/`                   | Fully processed dataset used by the main dashboard                          |
 | `data_processing.ipynb`         | Full data processing notebook using complete datasets                       |
 | `api_geocode.py`                | Python module for calling Postcodes.io and Google Geocoding APIs            |
@@ -84,11 +84,11 @@ Unify multiple public datasets into one file keyed by the unique combination of 
 
 ## 🧪 How to Test
 
-This project can be tested end-to-end with sample datasets (10 rows each) to avoid large downloads and API costs.
+This project can be tested end-to-end with sample datasets (5 - 10 rows each) to avoid large downloads and API costs.
 
 ### Steps:
 1. **Use the sample datasets**  
-   The `sample_data/` folder contains excerpts from each original dataset (house prices, crime, schools, postcode/population).
+   The `sample/` folder contains excerpts from each original dataset (house prices, crime, schools, postcode/population).
 
 2. **(Optional) Create your Google Geocoding API key**  
    Sign up for the Google Cloud Geocoding API and save your key in a `.env` file in the project root:  
@@ -103,7 +103,7 @@ This project can be tested end-to-end with sample datasets (10 rows each) to avo
   ```
 4. **Run the sample data processing notebook**
 	•	Open data_processing_sample.ipynb in Jupyter Notebook.
-	•	This processes all sample CSVs and outputs a processed dataset in `sample_processed/`.
+	•	This processes all sample CSVs and outputs a processed dataset in `data_sample_processed/`.
 
 5. **Launch the sample dashboard**
  ```bash
