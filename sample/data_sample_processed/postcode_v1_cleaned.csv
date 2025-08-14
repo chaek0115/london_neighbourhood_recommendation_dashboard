@@ -1,0 +1,11 @@
+,postcode,county,district,ward,population,households,nearest_station,police_force,average_income,property_type,roads
+0,BR1 1AA,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,Flat,Ringer's Road
+1,BR1 1AB,Greater London,Bromley,Bromley Town,,,Bromley North,Metropolitan Police,60000,Flat,"East Street,West Street"
+2,BR1 1AD,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,,
+3,BR1 1AE,Greater London,Bromley,Bromley Town,34.0,21.0,Bromley North,Metropolitan Police,69600,Flat,Tetty Way
+4,BR1 1AF,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,Flat,Ringer's Road
+5,BR1 1AG,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,Flat,Ringer's Road
+6,BR1 1AH,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,Flat,High Street
+7,BR1 1AJ,Greater London,Bromley,Bromley Town,,,Bromley South,Metropolitan Police,69600,,"Elmfield Road,Kentish Way"
+8,BR1 1AL,Greater London,Bromley,Bromley Town,,,Bromley North,Metropolitan Police,60000,,"High Street,Walters Yard"
+9,BR1 1AN,Greater London,Bromley,Bromley Town,,,Bromley North,Metropolitan Police,69600,,"Courtstreet,South Street"
