@@ -20,8 +20,8 @@ Click the button below to open the interactive dashboard:
 |---------------------------------|-----------------------------------------------------------------------------|
 | `sample/`                       | Contains all sample-mode assets including:                                  |
 |                                 | └── `data_sample/` – Small excerpts of the original datasets (10 rows each) |
-|                                 | └── `data_processing_sample.ipynb` – Sample-mode Jupyter Notebook             |
-|                                 | └── `streamlit_app_sample.py` – Sample-mode Streamlit dashboard               |
+|                                 | └── `data_sample_processed/` – imtermediate processed files will be saved here.             |
+|                                 | └── `data_processing_sample.ipynb` – Sample-mode Jupyter Notebook               |
 | `final_data/`                   | Fully processed dataset used by the main dashboard                          |
 | `data_processing.ipynb`         | Full data processing notebook using complete datasets                       |
 | `api_geocode.py`                | Python module for calling Postcodes.io and Google Geocoding APIs            |
@@ -44,7 +44,7 @@ Click the button below to open the interactive dashboard:
 ## 1) Data processing
 
 **Goal**  
-Unify multiple public datasets into one file keyed by the unique combination of `outcode` and `ward`(= neighbourhood area), with property attributes aggregated to median price and contextual metrics attached.
+Combine multiple public datasets into one file keyed by the unique combination of `outcode` and `ward`(= neighbourhood area), with property attributes aggregated to median price and contextual metrics attached.
 
 **Sources used**  
 - House price data (sales only) – [UK House Price Data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads), 2024
@@ -61,7 +61,7 @@ Unify multiple public datasets into one file keyed by the unique combination of 
 **Methods used**  
 - Normalise location fields so all sources share a common geographic structure.  
   - Postcodes.io is used to reverse-map coordinates to postcodes. Then outcodes were extracted from postcodes.  
-  - Google Geocoding API is used to obtain coordinates from ward + outcode when needed for mapping.  
+  - Google Geocoding API is used to obtain coordinates from `outcode` + `ward` when needed for mapping.  
 - Merge on `outcode` + `ward`. Use **left joins** to keep all London areas present even when some contextual data are missing. Missing values appear as “No information”.  
 - Aggregate property records by `outcode` + `ward` + property filters (bedrooms, bathrooms, living rooms, tenure, property type) to compute `median_price`.  
 - Compute `crime_per_1000` as `crime_count / population * 1000` for a consistent crime metric.
@@ -82,9 +82,11 @@ Unify multiple public datasets into one file keyed by the unique combination of 
     ```
 ---
 
-## 🧪 How to Test
+## 🧪 How to Test Data Processing
 
-This project can be tested end-to-end with sample datasets (5 - 10 rows each) to avoid large downloads and API costs.
+The data processing can be tested with sample data (10 rows each) and full postcode data. These can be found in the `sample/` folder. 
+Testing for Streamlit Dashboard is not available, as sample data will not be sufficient for Streamlit to function well.
+To see how the dashboard works, visit the dashboard link embedded in the Launch App section.
 
 ### Steps:
 1. **Use the sample datasets**  
@@ -104,12 +106,6 @@ This project can be tested end-to-end with sample datasets (5 - 10 rows each) to
 4. **Run the sample data processing notebook**
 	•	Open data_processing_sample.ipynb in Jupyter Notebook.
 	•	This processes all sample CSVs and outputs a processed dataset in `data_sample_processed/`.
-
-5. **Launch the sample dashboard**
- ```bash
-  streamlit run streamlit_app_sample.py
-  ```
-  This loads the processed sample dataset and lets you test all dashboard features without large files.
 
 ---
 ## ✅ Key Features
