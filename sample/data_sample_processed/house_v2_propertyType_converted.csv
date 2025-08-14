@@ -1,0 +1,11 @@
+postcode,outcode,latitude,longitude,bathrooms,bedrooms,floorareasqm,livingrooms,tenure,saleestimate_currentprice,propertytype_converted
+EC4A 1JQ,EC4A,51.5172824,-0.1103144,1.0,1.0,45.0,1.0,Leasehold,600000.0,Flat
+EC4A 1JQ,EC4A,51.5172824,-0.1103144,,,,,Leasehold,600000.0,Flat
+SW1P 2TA,SW1P,51.4955047,-0.1323791,2.0,2.0,71.0,1.0,Leasehold,759000.0,Flat
+SE5 7HS,SE5,51.4781854,-0.0922014,1.0,1.0,64.0,1.0,Leasehold,388000.0,Flat
+N10 3RL,N10,51.588774,-0.1395993,1.0,4.0,137.0,2.0,Freehold,1261000.0,House
+SE3 0UG,SE3,51.4660886,0.0069669,1.0,2.0,97.0,1.0,Freehold,944000.0,House
+SE13 6HT,SE13,51.4513274,-0.0075694,1.0,3.0,135.0,2.0,Freehold,726000.0,Bungalow
+SW1W 0QY,SW1W,51.4975146,-0.1451338,1.0,5.0,346.0,,Freehold,6024000.0,House
+E17 9EJ,E17,51.583106,-0.0021841,1.0,4.0,117.0,2.0,Freehold,920000.0,House
+N10 3RL,N10,51.588774,-0.1395993,1.0,4.0,137.0,2.0,Freehold,1267000.0,House
