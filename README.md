@@ -8,14 +8,14 @@ This repository contains two main parts:
 The code references two external services: **Postcodes.io** and **Google Geocoding**. No API keys are committed.   
 Users must supply their own keys where applicable or load cache that is already available.
 
-## 🚀 Launch App
+## Launch App
 Click the button below to open the interactive dashboard:
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chaek0115-london-neighbourhood-recommendat-streamlit-app-kxwju5.streamlit.app/)
 ![App Preview](images/demo.gif)
 
 ---
 
-## 📂 Repository structure
+## Repository structure
 
 | File / Folder                   | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Click the button below to open the interactive dashboard:
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 - Python 3.10+  
 - [Streamlit](https://streamlit.io/)  
 - [Postcodes.io](https://postcodes.io/) (free, no key required)
@@ -83,7 +83,7 @@ Combine multiple public datasets into one file keyed by the unique combination o
     ```
 ---
 
-## 🧪 How to Test Data Processing
+## How to Test Data Processing
 
 The data processing can be tested with sample data (10 rows each) and full postcode data. These can be found in the `sample/` folder. 
 Testing for Streamlit Dashboard is not available, as sample data will not be sufficient for Streamlit to function well.
@@ -110,7 +110,7 @@ Install libraries on Terminal if they are not installed already.
 	•	This processes all sample CSVs and outputs a processed dataset in `data_sample_processed/`.
 
 ---
-## ✅ Key Features
+## Key Features
 
 - **Budget Filtering**  
   Easily filter neighbourhoods by minimum and maximum property price.
@@ -137,7 +137,7 @@ Install libraries on Terminal if they are not installed already.
 
 ---
 
-## 🔴 Known Limitations
+## Known Limitations
 
 - No user authentication or saved searches.
 - Commute-time calculation and filter are not available.
