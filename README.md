@@ -1,6 +1,12 @@
 # 🏠 Find My Hood - London Neighbourhood Recommender System
 A Streamlit dashboard for exploring London neighbourhoods by budget, property criteria, crime rate, and school quality.  
 
+Author: Eunkyung Cha  
+Supervisor: Dr. Fabrizio Smeraldi  
+Institution: Queen Mary University of London  
+
+---
+
 This repository contains two main parts:  
 1. Data processing  
 2. Streamlit dashboard  
