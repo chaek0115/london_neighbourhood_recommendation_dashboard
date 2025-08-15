@@ -1180,7 +1180,7 @@
 1178,E16,Custom House,Newham,1.0,1.0,1.0,Feudal,Flat,293000.0,Royal Victoria,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
 1179,E16,Custom House,Newham,1.0,1.0,1.0,Freehold,House,347000.0,Prince Regent,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
 1180,E16,Custom House,Newham,1.0,1.0,1.0,Leasehold,Flat,288000.0,Royal Albert,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
-1181,E16,Custom House,Newham,1.0,2.0,1.0,Freehold,Bungalow,439000.0,Custom House,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
+1181,E16,Custom House,Newham,1.0,2.0,1.0,Freehold,Bungalow,439000.0,Prince Regent,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
 1182,E16,Custom House,Newham,1.0,2.0,1.0,Freehold,House,422000.0,Royal Albert,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
 1183,E16,Custom House,Newham,1.0,2.0,1.0,Leasehold,Bungalow,336000.0,Prince Regent,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
 1184,E16,Custom House,Newham,1.0,2.0,1.0,Leasehold,Flat,337000.0,Prince Regent,Low crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,1,Edith Kerrison Nursery School,0,No info
@@ -2460,7 +2460,7 @@
 2458,E6,East Ham,Newham,1.0,2.0,1.0,Freehold,Bungalow,414500.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
 2459,E6,East Ham,Newham,1.0,2.0,1.0,Freehold,Flat,407000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
 2460,E6,East Ham,Newham,1.0,2.0,1.0,Freehold,House,433000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
-2461,E6,East Ham,Newham,1.0,2.0,1.0,Leasehold,Flat,295000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
+2461,E6,East Ham,Newham,1.0,2.0,1.0,Leasehold,Flat,287000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
 2462,E6,East Ham,Newham,1.0,2.0,2.0,Leasehold,Flat,452000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
 2463,E6,East Ham,Newham,1.0,3.0,1.0,Freehold,Bungalow,470000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
 2464,E6,East Ham,Newham,1.0,3.0,1.0,Freehold,Flat,392000.0,East Ham,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,2,Lathom Junior School; St Michael's Catholic Primary School,0,No info
@@ -3183,7 +3183,7 @@
 3181,EC1M,Bunhill,Islington,1.0,1.0,1.0,Shared,Flat,512000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
 3182,EC1M,Bunhill,Islington,1.0,1.0,2.0,Feudal,Flat,759000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
 3183,EC1M,Bunhill,Islington,1.0,2.0,1.0,Feudal,Flat,984000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
-3184,EC1M,Bunhill,Islington,1.0,2.0,1.0,Leasehold,Flat,1010000.0,Farringdon,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
+3184,EC1M,Bunhill,Islington,1.0,2.0,1.0,Leasehold,Flat,1010000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
 3185,EC1M,Bunhill,Islington,1.0,2.0,2.0,Leasehold,Flat,880500.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
 3186,EC1M,Bunhill,Islington,1.0,2.0,2.0,Shared,Flat,755000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
 3187,EC1M,Bunhill,Islington,1.0,3.0,2.0,Leasehold,Flat,1483000.0,Barbican,Low crime,Other theft,Theft from the person,Violence and sexual offences,0,No info,0,No info
@@ -3603,7 +3603,7 @@
 3601,N1,Canonbury,Islington,2.0,2.0,1.0,Leasehold,Flat,670000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3602,N1,Canonbury,Islington,2.0,2.0,2.0,Leasehold,Flat,1203500.0,Haggerston,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3603,N1,Canonbury,Islington,2.0,2.0,3.0,Freehold,House,1804000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
-3604,N1,Canonbury,Islington,2.0,3.0,1.0,Freehold,Bungalow,1582000.0,Highbury and Islington,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
+3604,N1,Canonbury,Islington,2.0,3.0,1.0,Freehold,Bungalow,1582000.0,Canonbury,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3605,N1,Canonbury,Islington,2.0,3.0,1.0,Leasehold,Flat,702000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3606,N1,Canonbury,Islington,2.0,3.0,2.0,Freehold,House,1959000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3607,N1,Canonbury,Islington,2.0,4.0,2.0,Freehold,Bungalow,2272000.0,Canonbury,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
@@ -3613,7 +3613,7 @@
 3611,N1,Canonbury,Islington,2.0,5.0,4.0,Freehold,House,3370000.0,Canonbury,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3612,N1,Canonbury,Islington,2.0,6.0,2.0,Freehold,House,1795000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3613,N1,Canonbury,Islington,3.0,3.0,2.0,Freehold,Bungalow,1969000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
-3614,N1,Canonbury,Islington,3.0,3.0,2.0,Freehold,House,3111000.0,Highbury and Islington,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
+3614,N1,Canonbury,Islington,3.0,3.0,2.0,Freehold,House,3111000.0,Canonbury,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3615,N1,Canonbury,Islington,3.0,3.0,3.0,Leasehold,House,3414500.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3616,N1,Canonbury,Islington,3.0,4.0,2.0,Freehold,House,3410000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
 3617,N1,Canonbury,Islington,3.0,4.0,3.0,Freehold,House,4233000.0,Essex Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rotherfield Primary School,0,No info
@@ -3690,27 +3690,27 @@
 3688,N1,Haggerston,Hackney,1.0,2.0,2.0,Leasehold,Flat,575000.0,Haggerston,,,,,0,No info,0,No info
 3689,N1,Haggerston,Hackney,1.0,2.0,2.0,Leasehold,House,713000.0,Haggerston,,,,,0,No info,0,No info
 3690,N1,Haggerston,Hackney,1.0,3.0,2.0,Leasehold,Flat,737000.0,Haggerston,,,,,0,No info,0,No info
-3691,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Feudal,Flat,451000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3692,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Leasehold,Bungalow,681000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3693,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Leasehold,Flat,429000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3694,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Feudal,Flat,544000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3695,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Freehold,Bungalow,786000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3696,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Leasehold,Flat,491000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3697,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,2.0,Feudal,Flat,833000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3698,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,2.0,Leasehold,Flat,861000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3699,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,1.0,Leasehold,Flat,530000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3700,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,2.0,Leasehold,Flat,610000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3701,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,3.0,Leasehold,Flat,2781000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3702,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,1.0,Freehold,Bungalow,792000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3703,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,1.0,Leasehold,Flat,608000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3704,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,3.0,Freehold,House,5046000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3705,N1,Hoxton East & Shoreditch,Hackney,1.0,6.0,1.0,Leasehold,Flat,528000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3706,N1,Hoxton East & Shoreditch,Hackney,2.0,2.0,1.0,Freehold,Bungalow,1008500.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3707,N1,Hoxton East & Shoreditch,Hackney,2.0,2.0,1.0,Leasehold,Flat,477000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3708,N1,Hoxton East & Shoreditch,Hackney,2.0,3.0,1.0,Leasehold,Flat,433000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3709,N1,Hoxton East & Shoreditch,Hackney,2.0,4.0,1.0,Leasehold,Flat,470500.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3710,N1,Hoxton East & Shoreditch,Hackney,2.0,4.0,4.0,Leasehold,Flat,1381000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
-3711,N1,Hoxton East & Shoreditch,Hackney,2.0,6.0,4.0,Freehold,House,2087000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Theft from the person,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3691,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Feudal,Flat,451000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3692,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Leasehold,Bungalow,681000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3693,N1,Hoxton East & Shoreditch,Hackney,1.0,1.0,1.0,Leasehold,Flat,429000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3694,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Feudal,Flat,544000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3695,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Freehold,Bungalow,786000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3696,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,1.0,Leasehold,Flat,491000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3697,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,2.0,Feudal,Flat,833000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3698,N1,Hoxton East & Shoreditch,Hackney,1.0,2.0,2.0,Leasehold,Flat,861000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3699,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,1.0,Leasehold,Flat,530000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3700,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,2.0,Leasehold,Flat,610000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3701,N1,Hoxton East & Shoreditch,Hackney,1.0,3.0,3.0,Leasehold,Flat,2781000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3702,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,1.0,Freehold,Bungalow,792000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3703,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,1.0,Leasehold,Flat,608000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3704,N1,Hoxton East & Shoreditch,Hackney,1.0,4.0,3.0,Freehold,House,5046000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3705,N1,Hoxton East & Shoreditch,Hackney,1.0,6.0,1.0,Leasehold,Flat,528000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3706,N1,Hoxton East & Shoreditch,Hackney,2.0,2.0,1.0,Freehold,Bungalow,1008500.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3707,N1,Hoxton East & Shoreditch,Hackney,2.0,2.0,1.0,Leasehold,Flat,477000.0,Old Street,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3708,N1,Hoxton East & Shoreditch,Hackney,2.0,3.0,1.0,Leasehold,Flat,433000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3709,N1,Hoxton East & Shoreditch,Hackney,2.0,4.0,1.0,Leasehold,Flat,470500.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3710,N1,Hoxton East & Shoreditch,Hackney,2.0,4.0,4.0,Leasehold,Flat,1381000.0,Hoxton,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
+3711,N1,Hoxton East & Shoreditch,Hackney,2.0,6.0,4.0,Freehold,House,2087000.0,Haggerston,Medium crime,Violence and sexual offences,Anti-social behaviour,Other theft,2,St Monica's Roman Catholic Primary School; Hoxton Garden Primary,1,Comet Nursery School and Children's Centre
 3712,N1,Hoxton West,Hackney,1.0,1.0,1.0,Feudal,Flat,596000.0,Old Street,Medium crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,New Regent's College,1,St John the Baptist Voluntary Aided Church of England Primary School
 3713,N1,Hoxton West,Hackney,1.0,1.0,1.0,Leasehold,Flat,501000.0,Hoxton,Medium crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,New Regent's College,1,St John the Baptist Voluntary Aided Church of England Primary School
 3714,N1,Hoxton West,Hackney,1.0,1.0,2.0,Leasehold,Flat,998000.0,Angel,Medium crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,New Regent's College,1,St John the Baptist Voluntary Aided Church of England Primary School
@@ -5266,7 +5266,7 @@
 5264,N16,Stoke Newington,Hackney,1.0,2.0,2.0,Leasehold,Flat,585000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 5265,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Freehold,Bungalow,1238000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 5266,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Freehold,Flat,1483000.0,Stoke Newington,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
-5267,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Freehold,House,1393000.0,Stoke Newington,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
+5267,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Freehold,House,1393000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 5268,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Leasehold,Flat,671000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 5269,N16,Stoke Newington,Hackney,1.0,3.0,1.0,Leasehold,House,713000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 5270,N16,Stoke Newington,Hackney,1.0,3.0,2.0,Freehold,House,1318000.0,Rectory Road,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
@@ -5794,7 +5794,7 @@
 5792,N19,Junction,Islington,3.0,4.0,1.0,Freehold,House,1485000.0,Upper Holloway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
 5793,N19,Junction,Islington,3.0,5.0,2.0,Freehold,House,1968000.0,Upper Holloway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
 5794,N19,Junction,Islington,3.0,5.0,3.0,Freehold,House,2093000.0,Upper Holloway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
-5795,N19,Junction,Islington,3.0,6.0,3.0,Freehold,House,2744000.0,Archway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
+5795,N19,Junction,Islington,3.0,6.0,3.0,Freehold,House,2744000.0,Upper Holloway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
 5796,N19,Junction,Islington,3.0,7.0,4.0,Freehold,House,1672000.0,Archway,High crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,St John's Upper Holloway CofE Primary School,0,No info
 5797,N19,Kentish Town North,Camden,1.0,2.0,1.0,Leasehold,Flat,628000.0,Tufnell Park,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
 5798,N19,Tollington,Islington,1.0,1.0,1.0,Freehold,Flat,590000.0,Upper Holloway,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,1,St Mark's CofE Primary School,0,No info
@@ -7816,7 +7816,7 @@
 7814,N8,Noel Park,Haringey,1.0,3.0,1.0,Freehold,House,695000.0,Wood Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 7815,N8,Noel Park,Haringey,1.0,3.0,2.0,Freehold,Bungalow,746000.0,Turnpike Lane,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 7816,N8,Noel Park,Haringey,1.0,3.0,3.0,Freehold,House,610500.0,Wood Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
-7817,N8,Noel Park,Haringey,1.0,4.0,1.0,Freehold,House,837000.0,Wood Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
+7817,N8,Noel Park,Haringey,1.0,4.0,1.0,Freehold,House,837000.0,Turnpike Lane,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 7818,N8,Noel Park,Haringey,2.0,3.0,1.0,Freehold,Bungalow,780500.0,Turnpike Lane,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 7819,N8,Noel Park,Haringey,2.0,3.0,1.0,Freehold,House,762000.0,Turnpike Lane,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 7820,N8,Noel Park,Haringey,2.0,3.0,2.0,Freehold,Bungalow,660500.0,Wood Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
@@ -8277,19 +8277,19 @@
 8275,NW10,Brondesbury Park,Brent,3.0,5.0,4.0,Freehold,House,1770000.0,Kensal Rise,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,1,College Green School and Services
 8276,NW10,Brondesbury Park,Brent,3.0,6.0,2.0,Freehold,House,2722000.0,Willesden Green,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,1,College Green School and Services
 8277,NW10,Brondesbury Park,Brent,3.0,6.0,4.0,Freehold,House,2414500.0,Willesden Green,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,1,College Green School and Services
-8278,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Freehold,Flat,635000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8279,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Freehold,House,1134000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8280,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Leasehold,Flat,367000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8281,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,2.0,2.0,Leasehold,Flat,497000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8282,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,1.0,Freehold,Bungalow,738000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8283,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,1.0,Freehold,House,842000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8284,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,2.0,Freehold,House,868000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8285,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,4.0,1.0,Freehold,House,974000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8286,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,4.0,2.0,Freehold,House,1135000.0,Kensal Green,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8287,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,5.0,4.0,Freehold,House,1113000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8288,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,3.0,1.0,Freehold,House,1020000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8289,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,4.0,2.0,Freehold,House,951000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
-8290,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,4.0,3.0,Freehold,House,883000.0,Willesden Junction,High crime,Violence and sexual offences,Shoplifting,Anti-social behaviour,0,No info,0,No info
+8278,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Freehold,Flat,635000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8279,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Freehold,House,1134000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8280,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,1.0,1.0,Leasehold,Flat,367000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8281,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,2.0,2.0,Leasehold,Flat,497000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8282,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,1.0,Freehold,Bungalow,738000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8283,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,1.0,Freehold,House,842000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8284,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,3.0,2.0,Freehold,House,868000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8285,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,4.0,1.0,Freehold,House,974000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8286,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,4.0,2.0,Freehold,House,1135000.0,Kensal Green,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8287,NW10,College Park & Old Oak,Hammersmith and Fulham,1.0,5.0,4.0,Freehold,House,1113000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8288,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,3.0,1.0,Freehold,House,1020000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8289,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,4.0,2.0,Freehold,House,951000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
+8290,NW10,College Park & Old Oak,Hammersmith and Fulham,2.0,4.0,3.0,Freehold,House,883000.0,Willesden Junction,High crime,Violence and sexual offences,Anti-social behaviour,Shoplifting,0,No info,0,No info
 8291,NW10,Dollis Hill,Brent,1.0,1.0,1.0,Leasehold,Flat,296000.0,Neasden,Medium crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 8292,NW10,Dollis Hill,Brent,1.0,1.0,2.0,Leasehold,Flat,442000.0,Neasden,Medium crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 8293,NW10,Dollis Hill,Brent,1.0,2.0,1.0,Freehold,Flat,355000.0,Neasden,Medium crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
@@ -8561,8 +8561,8 @@
 8559,NW11,Childs Hill,Barnet,1.0,7.0,4.0,Freehold,House,2179000.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
 8560,NW11,Childs Hill,Barnet,2.0,2.0,2.0,Leasehold,Flat,726000.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
 8561,NW11,Childs Hill,Barnet,2.0,3.0,1.0,Freehold,House,961000.0,Cricklewood,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
-8562,NW11,Childs Hill,Barnet,2.0,3.0,2.0,Freehold,House,1034000.0,Brent Cross,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
-8563,NW11,Childs Hill,Barnet,2.0,4.0,1.0,Freehold,House,1520000.0,Brent Cross,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
+8562,NW11,Childs Hill,Barnet,2.0,3.0,2.0,Freehold,House,1034000.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
+8563,NW11,Childs Hill,Barnet,2.0,4.0,1.0,Freehold,House,1520000.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
 8564,NW11,Childs Hill,Barnet,2.0,4.0,2.0,Freehold,House,1486000.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
 8565,NW11,Childs Hill,Barnet,2.0,4.0,3.0,Freehold,House,2080500.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
 8566,NW11,Childs Hill,Barnet,2.0,5.0,1.0,Freehold,House,1986500.0,Golders Green,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,Rimon Jewish Primary School,0,No info
@@ -8734,7 +8734,7 @@
 8732,NW11,Hendon,Barnet,1.0,2.0,2.0,Leasehold,Flat,498000.0,Brent Cross,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
 8733,NW11,Hendon,Barnet,1.0,3.0,1.0,Leasehold,Flat,366000.0,Brent Cross,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
 8734,NW11,Hendon,Barnet,1.0,4.0,1.0,Leasehold,Flat,460000.0,Brent Cross,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
-8735,NW11,Hendon,Barnet,2.0,6.0,6.0,Freehold,House,1634000.0,Brent Cross,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
+8735,NW11,Hendon,Barnet,2.0,6.0,6.0,Freehold,House,1634000.0,Hendon Central,Low crime,Vehicle crime,Anti-social behaviour,Other theft,0,No info,0,No info
 8736,NW2,Brondesbury Park,Brent,1.0,1.0,1.0,Freehold,Flat,424000.0,Willesden Green,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 8737,NW2,Brondesbury Park,Brent,1.0,1.0,1.0,Leasehold,Flat,352000.0,Willesden Green,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 8738,NW2,Brondesbury Park,Brent,1.0,2.0,1.0,Leasehold,Flat,515000.0,Kilburn,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
@@ -9964,7 +9964,7 @@
 9962,NW8,Abbey Road,Westminster,1.0,2.0,1.0,Feudal,Flat,477000.0,Edgware Road (Bakerloo),Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9963,NW8,Abbey Road,Westminster,1.0,2.0,1.0,Freehold,House,1260000.0,Warwick Avenue,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9964,NW8,Abbey Road,Westminster,1.0,2.0,1.0,Leasehold,Bungalow,3989000.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
-9965,NW8,Abbey Road,Westminster,1.0,2.0,1.0,Leasehold,Flat,662000.0,Kilburn High Road,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
+9965,NW8,Abbey Road,Westminster,1.0,2.0,1.0,Leasehold,Flat,662000.0,South Hampstead,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9966,NW8,Abbey Road,Westminster,1.0,2.0,2.0,Feudal,Flat,1066500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9967,NW8,Abbey Road,Westminster,1.0,2.0,2.0,Freehold,House,1355000.0,Kilburn High Road,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9968,NW8,Abbey Road,Westminster,1.0,2.0,2.0,Leasehold,Flat,958000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
@@ -9994,7 +9994,7 @@
 9992,NW8,Abbey Road,Westminster,2.0,1.0,1.0,Leasehold,Flat,654500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9993,NW8,Abbey Road,Westminster,2.0,2.0,2.0,Freehold,House,2290000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9994,NW8,Abbey Road,Westminster,2.0,2.0,2.0,Leasehold,Flat,1246000.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
-9995,NW8,Abbey Road,Westminster,2.0,3.0,2.0,Freehold,House,3341500.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
+9995,NW8,Abbey Road,Westminster,2.0,3.0,2.0,Freehold,House,3341500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9996,NW8,Abbey Road,Westminster,2.0,3.0,2.0,Leasehold,Flat,2462000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9997,NW8,Abbey Road,Westminster,2.0,3.0,3.0,Leasehold,Flat,2006500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 9998,NW8,Abbey Road,Westminster,2.0,3.0,3.0,Leasehold,House,1414500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
@@ -10019,11 +10019,11 @@
 10017,NW8,Abbey Road,Westminster,3.0,4.0,2.0,Leasehold,Flat,3375000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10018,NW8,Abbey Road,Westminster,3.0,4.0,2.0,Leasehold,House,4138000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10019,NW8,Abbey Road,Westminster,3.0,4.0,3.0,Freehold,Bungalow,4919500.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
-10020,NW8,Abbey Road,Westminster,3.0,4.0,3.0,Freehold,House,3763000.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
+10020,NW8,Abbey Road,Westminster,3.0,4.0,3.0,Freehold,House,3763000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10021,NW8,Abbey Road,Westminster,3.0,4.0,4.0,Freehold,Bungalow,4526500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10022,NW8,Abbey Road,Westminster,3.0,4.0,4.0,Freehold,House,6519000.0,Kilburn High Road,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10023,NW8,Abbey Road,Westminster,3.0,4.0,5.0,Freehold,House,7210500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
-10024,NW8,Abbey Road,Westminster,3.0,5.0,2.0,Freehold,House,4249000.0,Maida Vale,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
+10024,NW8,Abbey Road,Westminster,3.0,5.0,2.0,Freehold,House,4249000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10025,NW8,Abbey Road,Westminster,3.0,5.0,4.0,Freehold,House,5198000.0,Kilburn High Road,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10026,NW8,Abbey Road,Westminster,3.0,5.0,4.0,Leasehold,House,5175000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
 10027,NW8,Abbey Road,Westminster,3.0,5.0,5.0,Freehold,House,7040000.0,Kilburn High Road,Low crime,Anti-social behaviour,Violence and sexual offences,Vehicle crime,0,No info,0,No info
@@ -10111,7 +10111,7 @@
 10109,NW8,Regent's Park,Westminster,1.0,2.0,1.0,Leasehold,Flat,677000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
 10110,NW8,Regent's Park,Westminster,1.0,2.0,1.0,Shared,Flat,834000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
 10111,NW8,Regent's Park,Westminster,1.0,2.0,2.0,Leasehold,Flat,1323000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
-10112,NW8,Regent's Park,Westminster,1.0,2.0,2.0,Shared,Flat,914000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
+10112,NW8,Regent's Park,Westminster,1.0,2.0,2.0,Shared,Flat,914000.0,Chalk Farm,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
 10113,NW8,Regent's Park,Westminster,1.0,2.0,3.0,Leasehold,Flat,768000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
 10114,NW8,Regent's Park,Westminster,1.0,3.0,1.0,Leasehold,Flat,691500.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
 10115,NW8,Regent's Park,Westminster,1.0,3.0,2.0,Freehold,Bungalow,1231000.0,St. Johns Wood,Low crime,Anti-social behaviour,Violence and sexual offences,Shoplifting,1,Robinsfield Infant School,0,No info
@@ -10659,7 +10659,7 @@
 10657,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,1.0,Freehold,House,608000.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 10658,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,2.0,Freehold,House,614000.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 10659,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,2.0,Leasehold,Bungalow,843500.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
-10660,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,2.0,Leasehold,Flat,787000.0,North Greenwich,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
+10660,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,2.0,Leasehold,Flat,787000.0,West Silvertown,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 10661,SE10,Greenwich Peninsula,Greenwich,1.0,3.0,2.0,Leasehold,House,850500.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 10662,SE10,Greenwich Peninsula,Greenwich,2.0,2.0,1.0,Feudal,Flat,627000.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 10663,SE10,Greenwich Peninsula,Greenwich,2.0,3.0,1.0,Freehold,House,625000.0,Westcombe Park,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
@@ -11626,7 +11626,7 @@
 11624,SE16,Surrey Docks,Southwark,1.0,1.0,3.0,Freehold,House,860000.0,Surrey Quays,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
 11625,SE16,Surrey Docks,Southwark,1.0,2.0,1.0,Freehold,Bungalow,614000.0,Limehouse,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
 11626,SE16,Surrey Docks,Southwark,1.0,2.0,1.0,Freehold,House,681000.0,Limehouse,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
-11627,SE16,Surrey Docks,Southwark,1.0,2.0,1.0,Leasehold,Bungalow,598000.0,Limehouse,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
+11627,SE16,Surrey Docks,Southwark,1.0,2.0,1.0,Leasehold,Bungalow,598000.0,Westferry,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
 11628,SE16,Surrey Docks,Southwark,1.0,2.0,1.0,Leasehold,Flat,493000.0,Canada Water,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
 11629,SE16,Surrey Docks,Southwark,1.0,2.0,2.0,Feudal,Flat,591000.0,Westferry,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
 11630,SE16,Surrey Docks,Southwark,1.0,2.0,2.0,Freehold,House,806000.0,Limehouse,Low crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,1,St John's Roman Catholic Primary School,0,No info
@@ -11955,7 +11955,7 @@
 11953,SE18,Woolwich Arsenal,Greenwich,2.0,2.0,2.0,Feudal,Flat,634000.0,Woolwich,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 11954,SE18,Woolwich Arsenal,Greenwich,2.0,2.0,2.0,Leasehold,Flat,617000.0,Woolwich,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 11955,SE18,Woolwich Arsenal,Greenwich,2.0,3.0,1.0,Freehold,Bungalow,469500.0,Woolwich Arsenal,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
-11956,SE18,Woolwich Arsenal,Greenwich,2.0,3.0,1.0,Freehold,House,391000.0,Woolwich,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
+11956,SE18,Woolwich Arsenal,Greenwich,2.0,3.0,1.0,Freehold,House,391000.0,Plumstead,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 11957,SE18,Woolwich Arsenal,Greenwich,2.0,3.0,2.0,Leasehold,House,841500.0,Woolwich,High crime,Violence and sexual offences,Anti-social behaviour,Other theft,0,No info,0,No info
 11958,SE18,Woolwich Common,Greenwich,1.0,1.0,1.0,Leasehold,Flat,257000.0,Woolwich Arsenal,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,1,Nightingale Primary School,0,No info
 11959,SE18,Woolwich Common,Greenwich,1.0,2.0,1.0,Freehold,Bungalow,402000.0,Plumstead,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,1,Nightingale Primary School,0,No info
@@ -12006,7 +12006,7 @@
 12004,SE18,Woolwich Dockyard,Greenwich,1.0,2.0,1.0,Leasehold,Flat,281000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
 12005,SE18,Woolwich Dockyard,Greenwich,1.0,2.0,1.0,Shared,Flat,291000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
 12006,SE18,Woolwich Dockyard,Greenwich,1.0,2.0,2.0,Leasehold,Flat,322000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
-12007,SE18,Woolwich Dockyard,Greenwich,1.0,3.0,1.0,Freehold,Bungalow,612500.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
+12007,SE18,Woolwich Dockyard,Greenwich,1.0,3.0,1.0,Freehold,Bungalow,612500.0,Woolwich Arsenal,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
 12008,SE18,Woolwich Dockyard,Greenwich,1.0,3.0,1.0,Freehold,House,458000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
 12009,SE18,Woolwich Dockyard,Greenwich,1.0,3.0,1.0,Leasehold,Flat,279000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
 12010,SE18,Woolwich Dockyard,Greenwich,1.0,3.0,1.0,Leasehold,House,397000.0,Woolwich Dockyard,Low crime,Violence and sexual offences,Anti-social behaviour,Other theft,1,Saint Mary Magdalene Church of England All Through School,0,No info
@@ -12144,7 +12144,7 @@
 12142,SE19,Gipsy Hill,Lambeth,1.0,3.0,2.0,Freehold,Bungalow,886000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
 12143,SE19,Gipsy Hill,Lambeth,1.0,3.0,2.0,Freehold,House,682000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
 12144,SE19,Gipsy Hill,Lambeth,1.0,3.0,2.0,Leasehold,Flat,669000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
-12145,SE19,Gipsy Hill,Lambeth,1.0,3.0,2.0,Leasehold,House,558000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
+12145,SE19,Gipsy Hill,Lambeth,1.0,3.0,2.0,Leasehold,House,558000.0,Crystal Palace,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
 12146,SE19,Gipsy Hill,Lambeth,1.0,4.0,1.0,Freehold,House,607000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
 12147,SE19,Gipsy Hill,Lambeth,1.0,4.0,2.0,Freehold,House,651000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
 12148,SE19,Gipsy Hill,Lambeth,2.0,2.0,1.0,Freehold,House,798000.0,Gipsy Hill,Low crime,Anti-social behaviour,Violence and sexual offences,Drugs,0,No info,0,No info
@@ -12372,7 +12372,7 @@
 12370,SE20,Crystal Palace & Anerley,Bromley,2.0,2.0,1.0,Freehold,Bungalow,643000.0,Penge West,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
 12371,SE20,Crystal Palace & Anerley,Bromley,2.0,2.0,1.0,Leasehold,Flat,378000.0,Harrington Road,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
 12372,SE20,Crystal Palace & Anerley,Bromley,2.0,3.0,1.0,Freehold,Bungalow,977000.0,Anerley,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
-12373,SE20,Crystal Palace & Anerley,Bromley,2.0,3.0,1.0,Freehold,House,609000.0,Anerley,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
+12373,SE20,Crystal Palace & Anerley,Bromley,2.0,3.0,1.0,Freehold,House,609000.0,Harrington Road,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
 12374,SE20,Crystal Palace & Anerley,Bromley,2.0,3.0,2.0,Leasehold,Flat,616000.0,Anerley,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
 12375,SE20,Crystal Palace & Anerley,Bromley,2.0,4.0,1.0,Freehold,House,893500.0,Anerley,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
 12376,SE20,Crystal Palace & Anerley,Bromley,2.0,4.0,2.0,Freehold,House,932500.0,Anerley,Medium crime,Shoplifting,Violence and sexual offences,Anti-social behaviour,1,James Dixon Primary School,0,No info
@@ -16426,7 +16426,7 @@
 16424,SW16,Furzedown,Wandsworth,1.0,2.0,1.0,Leasehold,Flat,447000.0,Streatham Common,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 16425,SW16,Furzedown,Wandsworth,1.0,2.0,2.0,Leasehold,Flat,493000.0,Streatham Common,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 16426,SW16,Furzedown,Wandsworth,1.0,3.0,1.0,Freehold,Bungalow,606000.0,Tooting,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-16427,SW16,Furzedown,Wandsworth,1.0,3.0,1.0,Freehold,House,851000.0,Tooting,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+16427,SW16,Furzedown,Wandsworth,1.0,3.0,1.0,Freehold,House,851000.0,Streatham,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 16428,SW16,Furzedown,Wandsworth,1.0,3.0,1.0,Leasehold,Flat,413000.0,Streatham,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 16429,SW16,Furzedown,Wandsworth,1.0,3.0,2.0,Freehold,Bungalow,727500.0,Streatham,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 16430,SW16,Furzedown,Wandsworth,1.0,3.0,2.0,Freehold,House,870000.0,Streatham Common,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
@@ -17809,85 +17809,85 @@
 17807,SW1P,Vincent Square,Westminster,3.0,5.0,2.0,Freehold,Bungalow,3013000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Burdett-Coutts and Townshend Foundation CofE Primary School; St Vincent De Paul Catholic Primary School,0,No info
 17808,SW1P,Vincent Square,Westminster,3.0,5.0,3.0,Leasehold,Flat,4446000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Burdett-Coutts and Townshend Foundation CofE Primary School; St Vincent De Paul Catholic Primary School,0,No info
 17809,SW1P,Vincent Square,Westminster,4.0,3.0,3.0,Freehold,Bungalow,2077500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Burdett-Coutts and Townshend Foundation CofE Primary School; St Vincent De Paul Catholic Primary School,0,No info
-17810,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Feudal,Flat,655000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17811,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Leasehold,Flat,544500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17812,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Shared,Flat,604000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17813,SW1V,Pimlico North,Westminster,1.0,1.0,2.0,Feudal,Flat,644000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17814,SW1V,Pimlico North,Westminster,1.0,1.0,2.0,Leasehold,Flat,682000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17815,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Feudal,Flat,657000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17816,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Freehold,Flat,671000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17817,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Leasehold,Flat,662000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17818,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Shared,Flat,798500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17819,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Feudal,Flat,978000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17820,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Freehold,Bungalow,3513000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17821,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Leasehold,Bungalow,1082000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17822,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Leasehold,Flat,878000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17823,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Shared,Flat,962000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17824,SW1V,Pimlico North,Westminster,1.0,2.0,3.0,Leasehold,Flat,1590000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17825,SW1V,Pimlico North,Westminster,1.0,3.0,1.0,Leasehold,Flat,778000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17826,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Freehold,Bungalow,1882500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17827,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Freehold,House,1832000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17828,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Leasehold,Flat,1042000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17829,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Shared,Flat,1175000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17830,SW1V,Pimlico North,Westminster,1.0,3.0,3.0,Freehold,House,1774000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17831,SW1V,Pimlico North,Westminster,1.0,3.0,3.0,Leasehold,Flat,1095000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17832,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Feudal,Flat,1364500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17833,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Freehold,House,2356000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17834,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Leasehold,Flat,799500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17835,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Freehold,Bungalow,2295000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17836,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Freehold,House,2261000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17837,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Leasehold,Flat,819000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17838,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Freehold,House,2628000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17839,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Leasehold,Bungalow,1738000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17840,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Leasehold,Flat,1642000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17841,SW1V,Pimlico North,Westminster,2.0,1.0,1.0,Leasehold,Flat,562000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17842,SW1V,Pimlico North,Westminster,2.0,2.0,1.0,Freehold,House,896000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17843,SW1V,Pimlico North,Westminster,2.0,2.0,1.0,Leasehold,Flat,964500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17844,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Freehold,Bungalow,1478000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17845,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Freehold,House,1985000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17846,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Leasehold,Flat,1134000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17847,SW1V,Pimlico North,Westminster,2.0,2.0,3.0,Leasehold,Flat,1403500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17848,SW1V,Pimlico North,Westminster,2.0,2.0,4.0,Leasehold,Flat,1615000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17849,SW1V,Pimlico North,Westminster,2.0,3.0,1.0,Leasehold,Flat,1166000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17850,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Freehold,Bungalow,2971000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17851,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Freehold,House,2165000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17852,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Leasehold,Flat,1094000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17853,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Freehold,Bungalow,1669000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17854,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Freehold,House,2166000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17855,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Leasehold,Bungalow,2064000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17856,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Leasehold,Flat,1505000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17857,SW1V,Pimlico North,Westminster,2.0,4.0,2.0,Freehold,Bungalow,1908500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17858,SW1V,Pimlico North,Westminster,2.0,4.0,2.0,Freehold,House,2115000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17859,SW1V,Pimlico North,Westminster,2.0,4.0,3.0,Freehold,Bungalow,2688000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17860,SW1V,Pimlico North,Westminster,2.0,4.0,3.0,Freehold,House,2445000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17861,SW1V,Pimlico North,Westminster,2.0,4.0,5.0,Freehold,Bungalow,2635000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17862,SW1V,Pimlico North,Westminster,2.0,4.0,5.0,Shared,Flat,5579500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17863,SW1V,Pimlico North,Westminster,2.0,5.0,2.0,Freehold,House,2297000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17864,SW1V,Pimlico North,Westminster,2.0,5.0,3.0,Freehold,Bungalow,2804500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17865,SW1V,Pimlico North,Westminster,2.0,5.0,3.0,Freehold,House,2848500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17866,SW1V,Pimlico North,Westminster,2.0,5.0,4.0,Freehold,House,2938000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17867,SW1V,Pimlico North,Westminster,2.0,6.0,4.0,Leasehold,Bungalow,2839000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17868,SW1V,Pimlico North,Westminster,3.0,3.0,2.0,Freehold,Bungalow,2822500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17869,SW1V,Pimlico North,Westminster,3.0,3.0,3.0,Freehold,Bungalow,2601000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17870,SW1V,Pimlico North,Westminster,3.0,3.0,3.0,Freehold,House,2896000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17871,SW1V,Pimlico North,Westminster,3.0,4.0,2.0,Freehold,House,2245500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17872,SW1V,Pimlico North,Westminster,3.0,4.0,3.0,Freehold,House,2997000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17873,SW1V,Pimlico North,Westminster,3.0,5.0,1.0,Freehold,House,3629000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17874,SW1V,Pimlico North,Westminster,3.0,5.0,2.0,Freehold,Bungalow,2350000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17875,SW1V,Pimlico North,Westminster,3.0,5.0,3.0,Freehold,Bungalow,3496000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17876,SW1V,Pimlico North,Westminster,3.0,5.0,3.0,Freehold,House,4129500.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17877,SW1V,Pimlico North,Westminster,3.0,5.0,4.0,Freehold,House,3491000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17878,SW1V,Pimlico North,Westminster,3.0,5.0,5.0,Freehold,House,3945500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17879,SW1V,Pimlico North,Westminster,3.0,6.0,3.0,Freehold,House,3273000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17880,SW1V,Pimlico North,Westminster,4.0,4.0,3.0,Freehold,House,4297000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17881,SW1V,Pimlico North,Westminster,4.0,4.0,4.0,Freehold,Bungalow,3205000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17882,SW1V,Pimlico North,Westminster,4.0,5.0,2.0,Freehold,House,3789500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17883,SW1V,Pimlico North,Westminster,4.0,5.0,4.0,Freehold,Bungalow,3567000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17884,SW1V,Pimlico North,Westminster,4.0,5.0,4.0,Freehold,House,3483000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17885,SW1V,Pimlico North,Westminster,4.0,6.0,5.0,Freehold,House,4546000.0,Pimlico,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17886,SW1V,Pimlico North,Westminster,5.0,6.0,3.0,Freehold,Bungalow,4322000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17887,SW1V,Pimlico North,Westminster,5.0,9.0,4.0,Freehold,Bungalow,6541500.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
-17888,SW1V,Pimlico North,Westminster,6.0,4.0,4.0,Freehold,House,3550000.0,Victoria,High crime,Anti-social behaviour,Violence and sexual offences,Theft from the person,0,No info,0,No info
+17810,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Feudal,Flat,655000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17811,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Leasehold,Flat,544500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17812,SW1V,Pimlico North,Westminster,1.0,1.0,1.0,Shared,Flat,604000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17813,SW1V,Pimlico North,Westminster,1.0,1.0,2.0,Feudal,Flat,644000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17814,SW1V,Pimlico North,Westminster,1.0,1.0,2.0,Leasehold,Flat,682000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17815,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Feudal,Flat,657000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17816,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Freehold,Flat,671000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17817,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Leasehold,Flat,662000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17818,SW1V,Pimlico North,Westminster,1.0,2.0,1.0,Shared,Flat,798500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17819,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Feudal,Flat,978000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17820,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Freehold,Bungalow,3513000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17821,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Leasehold,Bungalow,1082000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17822,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Leasehold,Flat,878000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17823,SW1V,Pimlico North,Westminster,1.0,2.0,2.0,Shared,Flat,962000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17824,SW1V,Pimlico North,Westminster,1.0,2.0,3.0,Leasehold,Flat,1590000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17825,SW1V,Pimlico North,Westminster,1.0,3.0,1.0,Leasehold,Flat,778000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17826,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Freehold,Bungalow,1882500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17827,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Freehold,House,1832000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17828,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Leasehold,Flat,1042000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17829,SW1V,Pimlico North,Westminster,1.0,3.0,2.0,Shared,Flat,1175000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17830,SW1V,Pimlico North,Westminster,1.0,3.0,3.0,Freehold,House,1774000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17831,SW1V,Pimlico North,Westminster,1.0,3.0,3.0,Leasehold,Flat,1095000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17832,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Feudal,Flat,1364500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17833,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Freehold,House,2356000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17834,SW1V,Pimlico North,Westminster,1.0,4.0,1.0,Leasehold,Flat,799500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17835,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Freehold,Bungalow,2295000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17836,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Freehold,House,2261000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17837,SW1V,Pimlico North,Westminster,1.0,4.0,2.0,Leasehold,Flat,819000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17838,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Freehold,House,2628000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17839,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Leasehold,Bungalow,1738000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17840,SW1V,Pimlico North,Westminster,1.0,4.0,3.0,Leasehold,Flat,1642000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17841,SW1V,Pimlico North,Westminster,2.0,1.0,1.0,Leasehold,Flat,562000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17842,SW1V,Pimlico North,Westminster,2.0,2.0,1.0,Freehold,House,896000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17843,SW1V,Pimlico North,Westminster,2.0,2.0,1.0,Leasehold,Flat,964500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17844,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Freehold,Bungalow,1478000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17845,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Freehold,House,1985000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17846,SW1V,Pimlico North,Westminster,2.0,2.0,2.0,Leasehold,Flat,1134000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17847,SW1V,Pimlico North,Westminster,2.0,2.0,3.0,Leasehold,Flat,1403500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17848,SW1V,Pimlico North,Westminster,2.0,2.0,4.0,Leasehold,Flat,1615000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17849,SW1V,Pimlico North,Westminster,2.0,3.0,1.0,Leasehold,Flat,1166000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17850,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Freehold,Bungalow,2971000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17851,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Freehold,House,2165000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17852,SW1V,Pimlico North,Westminster,2.0,3.0,2.0,Leasehold,Flat,1094000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17853,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Freehold,Bungalow,1669000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17854,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Freehold,House,2166000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17855,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Leasehold,Bungalow,2064000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17856,SW1V,Pimlico North,Westminster,2.0,3.0,3.0,Leasehold,Flat,1505000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17857,SW1V,Pimlico North,Westminster,2.0,4.0,2.0,Freehold,Bungalow,1908500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17858,SW1V,Pimlico North,Westminster,2.0,4.0,2.0,Freehold,House,2115000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17859,SW1V,Pimlico North,Westminster,2.0,4.0,3.0,Freehold,Bungalow,2688000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17860,SW1V,Pimlico North,Westminster,2.0,4.0,3.0,Freehold,House,2445000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17861,SW1V,Pimlico North,Westminster,2.0,4.0,5.0,Freehold,Bungalow,2635000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17862,SW1V,Pimlico North,Westminster,2.0,4.0,5.0,Shared,Flat,5579500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17863,SW1V,Pimlico North,Westminster,2.0,5.0,2.0,Freehold,House,2297000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17864,SW1V,Pimlico North,Westminster,2.0,5.0,3.0,Freehold,Bungalow,2804500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17865,SW1V,Pimlico North,Westminster,2.0,5.0,3.0,Freehold,House,2848500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17866,SW1V,Pimlico North,Westminster,2.0,5.0,4.0,Freehold,House,2938000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17867,SW1V,Pimlico North,Westminster,2.0,6.0,4.0,Leasehold,Bungalow,2839000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17868,SW1V,Pimlico North,Westminster,3.0,3.0,2.0,Freehold,Bungalow,2822500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17869,SW1V,Pimlico North,Westminster,3.0,3.0,3.0,Freehold,Bungalow,2601000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17870,SW1V,Pimlico North,Westminster,3.0,3.0,3.0,Freehold,House,2896000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17871,SW1V,Pimlico North,Westminster,3.0,4.0,2.0,Freehold,House,2245500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17872,SW1V,Pimlico North,Westminster,3.0,4.0,3.0,Freehold,House,2997000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17873,SW1V,Pimlico North,Westminster,3.0,5.0,1.0,Freehold,House,3629000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17874,SW1V,Pimlico North,Westminster,3.0,5.0,2.0,Freehold,Bungalow,2350000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17875,SW1V,Pimlico North,Westminster,3.0,5.0,3.0,Freehold,Bungalow,3496000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17876,SW1V,Pimlico North,Westminster,3.0,5.0,3.0,Freehold,House,4129500.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17877,SW1V,Pimlico North,Westminster,3.0,5.0,4.0,Freehold,House,3491000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17878,SW1V,Pimlico North,Westminster,3.0,5.0,5.0,Freehold,House,3945500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17879,SW1V,Pimlico North,Westminster,3.0,6.0,3.0,Freehold,House,3273000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17880,SW1V,Pimlico North,Westminster,4.0,4.0,3.0,Freehold,House,4297000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17881,SW1V,Pimlico North,Westminster,4.0,4.0,4.0,Freehold,Bungalow,3205000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17882,SW1V,Pimlico North,Westminster,4.0,5.0,2.0,Freehold,House,3789500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17883,SW1V,Pimlico North,Westminster,4.0,5.0,4.0,Freehold,Bungalow,3567000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17884,SW1V,Pimlico North,Westminster,4.0,5.0,4.0,Freehold,House,3483000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17885,SW1V,Pimlico North,Westminster,4.0,6.0,5.0,Freehold,House,4546000.0,Pimlico,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17886,SW1V,Pimlico North,Westminster,5.0,6.0,3.0,Freehold,Bungalow,4322000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17887,SW1V,Pimlico North,Westminster,5.0,9.0,4.0,Freehold,Bungalow,6541500.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+17888,SW1V,Pimlico North,Westminster,6.0,4.0,4.0,Freehold,House,3550000.0,Victoria,Medium crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 17889,SW1V,Pimlico South,Westminster,1.0,1.0,1.0,Feudal,Flat,576000.0,Pimlico,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St Gabriel's CofE Primary School,0,No info
 17890,SW1V,Pimlico South,Westminster,1.0,1.0,1.0,Leasehold,Flat,515500.0,Pimlico,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St Gabriel's CofE Primary School,0,No info
 17891,SW1V,Pimlico South,Westminster,1.0,1.0,1.0,Shared,Flat,450500.0,Pimlico,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St Gabriel's CofE Primary School,0,No info
@@ -20007,7 +20007,7 @@
 20005,SW8,Shaftesbury & Queenstown,Wandsworth,1.0,4.0,3.0,Leasehold,Flat,1157000.0,Battersea Park,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
 20006,SW8,Shaftesbury & Queenstown,Wandsworth,1.0,4.0,4.0,Freehold,Bungalow,1336000.0,Queenstown Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
 20007,SW8,Shaftesbury & Queenstown,Wandsworth,1.0,5.0,2.0,Freehold,House,1303000.0,Queenstown Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
-20008,SW8,Shaftesbury & Queenstown,Wandsworth,1.0,6.0,1.0,Freehold,House,1641000.0,Queenstown Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
+20008,SW8,Shaftesbury & Queenstown,Wandsworth,1.0,6.0,1.0,Freehold,House,1641000.0,Wandsworth Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
 20009,SW8,Shaftesbury & Queenstown,Wandsworth,2.0,1.0,1.0,Leasehold,Flat,558500.0,Queenstown Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
 20010,SW8,Shaftesbury & Queenstown,Wandsworth,2.0,1.0,2.0,Leasehold,Flat,1170000.0,Wandsworth Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
 20011,SW8,Shaftesbury & Queenstown,Wandsworth,2.0,2.0,1.0,Leasehold,Flat,580000.0,Queenstown Road,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,1,St George's CofE Primary School,0,No info
@@ -20405,7 +20405,7 @@
 20403,W10,Queen's Park,Westminster,2.0,3.0,2.0,Freehold,House,989000.0,Westbourne Park,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
 20404,W10,Queen's Park,Westminster,2.0,3.0,3.0,Leasehold,Flat,1058500.0,Queens Park (London),Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
 20405,W10,Queen's Park,Westminster,2.0,4.0,2.0,Freehold,House,956000.0,Queens Park (London),Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
-20406,W10,Queen's Park,Westminster,2.0,5.0,1.0,Freehold,House,996500.0,Kensal Rise,Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
+20406,W10,Queen's Park,Westminster,2.0,5.0,1.0,Freehold,House,996500.0,Queens Park (London),Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
 20407,W10,Queen's Park,Westminster,3.0,3.0,1.0,Freehold,House,1333000.0,Queens Park (London),Low crime,Anti-social behaviour,Violence and sexual offences,Other theft,2,Queen's Park Primary School; The St Marylebone Church of England Bridge School,0,No info
 20408,W10,Queens Park,Brent,1.0,1.0,1.0,Feudal,Flat,444000.0,Queens Park (London),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 20409,W10,Queens Park,Brent,1.0,1.0,1.0,Leasehold,Flat,528000.0,Queens Park (London),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
@@ -20847,20 +20847,20 @@
 20845,W13,Ealing Broadway,Ealing,1.0,3.0,2.0,Freehold,House,927000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20846,W13,Ealing Broadway,Ealing,1.0,3.0,2.0,Leasehold,Flat,851000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20847,W13,Ealing Broadway,Ealing,1.0,3.0,3.0,Freehold,House,1535000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-20848,W13,Ealing Broadway,Ealing,1.0,4.0,1.0,Freehold,Bungalow,779000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-20849,W13,Ealing Broadway,Ealing,1.0,4.0,1.0,Freehold,House,843000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+20848,W13,Ealing Broadway,Ealing,1.0,4.0,1.0,Freehold,Bungalow,779000.0,Ealing Broadway,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+20849,W13,Ealing Broadway,Ealing,1.0,4.0,1.0,Freehold,House,843000.0,Ealing Broadway,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20850,W13,Ealing Broadway,Ealing,1.0,4.0,2.0,Freehold,Bungalow,1066000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20851,W13,Ealing Broadway,Ealing,1.0,4.0,3.0,Freehold,House,1054000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-20852,W13,Ealing Broadway,Ealing,1.0,4.0,5.0,Freehold,Bungalow,924000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+20852,W13,Ealing Broadway,Ealing,1.0,4.0,5.0,Freehold,Bungalow,924000.0,Ealing Broadway,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20853,W13,Ealing Broadway,Ealing,1.0,5.0,1.0,Freehold,House,1604000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20854,W13,Ealing Broadway,Ealing,1.0,6.0,5.0,Freehold,House,2111000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20855,W13,Ealing Broadway,Ealing,2.0,3.0,1.0,Freehold,Bungalow,854000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20856,W13,Ealing Broadway,Ealing,2.0,4.0,1.0,Freehold,House,1417000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-20857,W13,Ealing Broadway,Ealing,2.0,4.0,1.0,Leasehold,House,768000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+20857,W13,Ealing Broadway,Ealing,2.0,4.0,1.0,Leasehold,House,768000.0,Ealing Broadway,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20858,W13,Ealing Broadway,Ealing,2.0,4.0,2.0,Freehold,House,1526500.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20859,W13,Ealing Broadway,Ealing,2.0,4.0,2.0,Leasehold,House,985000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20860,W13,Ealing Broadway,Ealing,2.0,4.0,4.0,Freehold,House,1138000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
-20861,W13,Ealing Broadway,Ealing,2.0,5.0,2.0,Freehold,Bungalow,851000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
+20861,W13,Ealing Broadway,Ealing,2.0,5.0,2.0,Freehold,Bungalow,851000.0,Ealing Broadway,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20862,W13,Ealing Broadway,Ealing,2.0,5.0,2.0,Freehold,Flat,532000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20863,W13,Ealing Broadway,Ealing,2.0,5.0,2.0,Freehold,House,1575000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
 20864,W13,Ealing Broadway,Ealing,2.0,5.0,3.0,Freehold,House,2019000.0,West Ealing,Low crime,Violence and sexual offences,Anti-social behaviour,Vehicle crime,0,No info,0,No info
@@ -21595,7 +21595,7 @@
 21593,W1K,West End,Westminster,3.0,4.0,3.0,Leasehold,Bungalow,6845000.0,Bond Street,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 21594,W1K,West End,Westminster,3.0,4.0,5.0,Leasehold,Flat,4358000.0,Marble Arch,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 21595,W1K,West End,Westminster,3.0,5.0,3.0,Freehold,Bungalow,7423000.0,Marble Arch,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
-21596,W1K,West End,Westminster,3.0,5.0,4.0,Freehold,Bungalow,7370000.0,Marble Arch,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
+21596,W1K,West End,Westminster,3.0,5.0,4.0,Freehold,Bungalow,7370000.0,Bond Street,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 21597,W1K,West End,Westminster,3.0,5.0,4.0,Freehold,House,5260000.0,Marble Arch,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 21598,W1K,West End,Westminster,3.0,5.0,5.0,Leasehold,Flat,2879500.0,Bond Street,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 21599,W1K,West End,Westminster,3.0,5.0,6.0,Freehold,Bungalow,3208000.0,Marble Arch,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
@@ -21648,7 +21648,7 @@
 21646,W1T,Bloomsbury,Camden,2.0,3.0,2.0,Freehold,House,3027000.0,Goodge Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 21647,W1T,Bloomsbury,Camden,2.0,3.0,3.0,Leasehold,Flat,2974000.0,Goodge Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 21648,W1T,Bloomsbury,Camden,2.0,4.0,2.0,Leasehold,House,2130000.0,Warren Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-21649,W1T,Bloomsbury,Camden,2.0,5.0,4.0,Freehold,Bungalow,8478000.0,Great Portland Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
+21649,W1T,Bloomsbury,Camden,2.0,5.0,4.0,Freehold,Bungalow,8478000.0,Warren Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 21650,W1T,Bloomsbury,Camden,3.0,6.0,4.0,Freehold,House,3784000.0,Goodge Street,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 21651,W1T,West End,Westminster,1.0,1.0,1.0,Leasehold,Flat,1208000.0,Oxford Circus,High crime,Theft from the person,Other theft,Shoplifting,0,No info,0,No info
 21652,W1T,West End,Westminster,1.0,1.0,2.0,Leasehold,Flat,1190500.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Shoplifting,0,No info,0,No info
@@ -22897,8 +22897,8 @@
 22895,W6,Hammersmith Broadway,Hammersmith and Fulham,2.0,4.0,2.0,Freehold,House,1304000.0,Hammersmith (Met.),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 22896,W6,Hammersmith Broadway,Hammersmith and Fulham,2.0,4.0,3.0,Freehold,Bungalow,1587000.0,Hammersmith (Met.),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 22897,W6,Hammersmith Broadway,Hammersmith and Fulham,2.0,4.0,4.0,Freehold,Bungalow,1098000.0,Hammersmith (District),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
-22898,W6,Hammersmith Broadway,Hammersmith and Fulham,2.0,5.0,3.0,Freehold,House,2252000.0,Hammersmith (District),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
-22899,W6,Hammersmith Broadway,Hammersmith and Fulham,3.0,5.0,3.0,Freehold,House,2000000.0,Hammersmith (District),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+22898,W6,Hammersmith Broadway,Hammersmith and Fulham,2.0,5.0,3.0,Freehold,House,2252000.0,Hammersmith (Met.),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
+22899,W6,Hammersmith Broadway,Hammersmith and Fulham,3.0,5.0,3.0,Freehold,House,2000000.0,Hammersmith (Met.),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 22900,W6,Hammersmith Broadway,Hammersmith and Fulham,6.0,6.0,5.0,Freehold,Bungalow,1751000.0,Ravenscourt Park,High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 22901,W6,Hammersmith Broadway,Hammersmith and Fulham,6.0,6.0,6.0,Freehold,House,1026000.0,Hammersmith (Met.),High crime,Anti-social behaviour,Violence and sexual offences,Other theft,0,No info,0,No info
 22902,W6,Ravenscourt,Hammersmith and Fulham,1.0,1.0,1.0,Leasehold,Flat,366000.0,Stamford Brook,Low crime,Vehicle crime,Violence and sexual offences,Anti-social behaviour,0,No info,1,St Peter's Primary School
@@ -23391,22 +23391,22 @@
 23389,W9,Westbourne,Westminster,1.0,3.0,2.0,Leasehold,Flat,867000.0,Westbourne Park,Medium crime,Violence and sexual offences,Anti-social behaviour,Burglary,0,No info,0,No info
 23390,W9,Westbourne,Westminster,1.0,3.0,3.0,Leasehold,Flat,1537000.0,Royal Oak,Medium crime,Violence and sexual offences,Anti-social behaviour,Burglary,0,No info,0,No info
 23391,W9,Westbourne,Westminster,1.0,5.0,2.0,Leasehold,Flat,560000.0,Warwick Avenue,Medium crime,Violence and sexual offences,Anti-social behaviour,Burglary,0,No info,0,No info
-23392,WC1A,Bloomsbury,Camden,1.0,1.0,1.0,Feudal,Flat,553000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23393,WC1A,Bloomsbury,Camden,1.0,1.0,1.0,Leasehold,Flat,674000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23394,WC1A,Bloomsbury,Camden,1.0,1.0,2.0,Leasehold,Flat,856000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23395,WC1A,Bloomsbury,Camden,1.0,2.0,1.0,Leasehold,Flat,892000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23396,WC1A,Bloomsbury,Camden,1.0,2.0,2.0,Leasehold,Flat,1062000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23397,WC1A,Bloomsbury,Camden,1.0,2.0,2.0,Shared,Flat,1182000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23398,WC1A,Bloomsbury,Camden,1.0,3.0,1.0,Leasehold,Flat,1043000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23399,WC1A,Bloomsbury,Camden,1.0,3.0,2.0,Feudal,Flat,1417000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23400,WC1A,Bloomsbury,Camden,1.0,3.0,2.0,Leasehold,Flat,1286000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23401,WC1A,Bloomsbury,Camden,2.0,2.0,1.0,Leasehold,Flat,822000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23402,WC1A,Bloomsbury,Camden,2.0,3.0,2.0,Leasehold,Flat,1407000.0,Holborn,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23403,WC1A,Bloomsbury,Camden,2.0,5.0,3.0,Freehold,House,2893000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
-23404,WC1A,Holborn & Covent Garden,Camden,1.0,1.0,1.0,Leasehold,Flat,671000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Drugs,0,No info,0,No info
-23405,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,1.0,Leasehold,Flat,937000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Drugs,0,No info,0,No info
-23406,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,2.0,Leasehold,Flat,1225000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Drugs,0,No info,0,No info
-23407,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,3.0,Freehold,Flat,2858000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Drugs,0,No info,0,No info
+23392,WC1A,Bloomsbury,Camden,1.0,1.0,1.0,Feudal,Flat,553000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23393,WC1A,Bloomsbury,Camden,1.0,1.0,1.0,Leasehold,Flat,674000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23394,WC1A,Bloomsbury,Camden,1.0,1.0,2.0,Leasehold,Flat,856000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23395,WC1A,Bloomsbury,Camden,1.0,2.0,1.0,Leasehold,Flat,892000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23396,WC1A,Bloomsbury,Camden,1.0,2.0,2.0,Leasehold,Flat,1062000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23397,WC1A,Bloomsbury,Camden,1.0,2.0,2.0,Shared,Flat,1182000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23398,WC1A,Bloomsbury,Camden,1.0,3.0,1.0,Leasehold,Flat,1043000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23399,WC1A,Bloomsbury,Camden,1.0,3.0,2.0,Feudal,Flat,1417000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23400,WC1A,Bloomsbury,Camden,1.0,3.0,2.0,Leasehold,Flat,1286000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23401,WC1A,Bloomsbury,Camden,2.0,2.0,1.0,Leasehold,Flat,822000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23402,WC1A,Bloomsbury,Camden,2.0,3.0,2.0,Leasehold,Flat,1407000.0,Holborn,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23403,WC1A,Bloomsbury,Camden,2.0,5.0,3.0,Freehold,House,2893000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Vehicle crime,0,No info,0,No info
+23404,WC1A,Holborn & Covent Garden,Camden,1.0,1.0,1.0,Leasehold,Flat,671000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
+23405,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,1.0,Leasehold,Flat,937000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
+23406,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,2.0,Leasehold,Flat,1225000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
+23407,WC1A,Holborn & Covent Garden,Camden,1.0,2.0,3.0,Freehold,Flat,2858000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 23408,WC1B,Bloomsbury,Camden,1.0,1.0,1.0,Feudal,Flat,706000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 23409,WC1B,Bloomsbury,Camden,1.0,1.0,1.0,Leasehold,Flat,803000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
 23410,WC1B,Bloomsbury,Camden,1.0,1.0,1.0,Leasehold,House,398000.0,Tottenham Court Road,High crime,Theft from the person,Other theft,Anti-social behaviour,0,No info,0,No info
@@ -23695,8 +23695,8 @@
 23693,WC2H,West End,Westminster,1.0,2.0,2.0,Leasehold,Flat,2095000.0,Tottenham Court Road,High crime,Theft from the person,Shoplifting,Other theft,0,No info,0,No info
 23694,WC2H,West End,Westminster,1.0,2.0,3.0,Leasehold,Flat,2095000.0,Tottenham Court Road,High crime,Theft from the person,Shoplifting,Other theft,0,No info,0,No info
 23695,WC2N,St James's,Westminster,1.0,1.0,1.0,Leasehold,Flat,831500.0,Leicester Square,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
-23696,WC2N,St James's,Westminster,1.0,2.0,1.0,Leasehold,Flat,1022000.0,Charing Cross,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
-23697,WC2N,St James's,Westminster,1.0,2.0,2.0,Leasehold,Flat,1538000.0,Charing Cross,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
+23696,WC2N,St James's,Westminster,1.0,2.0,1.0,Leasehold,Flat,1022000.0,Embankment,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
+23697,WC2N,St James's,Westminster,1.0,2.0,2.0,Leasehold,Flat,1538000.0,Embankment,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 23698,WC2N,St James's,Westminster,1.0,2.0,3.0,Leasehold,Flat,986000.0,Charing Cross,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 23699,WC2N,St James's,Westminster,1.0,3.0,2.0,Feudal,Flat,1960000.0,Charing Cross,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
 23700,WC2N,St James's,Westminster,1.0,3.0,2.0,Leasehold,Flat,2154000.0,Charing Cross,High crime,Theft from the person,Other theft,Violence and sexual offences,0,No info,0,No info
