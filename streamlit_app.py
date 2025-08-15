@@ -19,9 +19,10 @@ df = load_data()
 
 
 # custom CSS 
+# sidebar wrapper, light and dark mode styles,remove number spinner buttons
 st.markdown("""
     <style>
-    /* Sidebar wrapper */
+    /* sidebar wrapper */
     section[data-testid="stSidebar"] {
         border-right: none !important;
         box-shadow: none !important;
@@ -44,7 +45,7 @@ st.markdown("""
         overflow: visible !important;
     }
 
-    /* Light mode */
+    /* light mode */
     @media (prefers-color-scheme: light) {
         section[data-testid="stSidebar"] {
             background-color: #f5f5f5 !important;  /* light grey */
@@ -53,7 +54,7 @@ st.markdown("""
 
         [data-baseweb="tag"] {
             background-color: #d4edda !important;  /* sage green */
-            border: 1px solid #b2d8c2 !important;
+            border: 1px solid #b2d8c2 !important;  /* sage green-ish */
             border-radius: 8px !important;
             font-weight: 500 !important;
         }
@@ -65,10 +66,10 @@ st.markdown("""
         }
     }
 
-    /* Dark mode */
+    /* dark mode */
     @media (prefers-color-scheme: dark) {
         section[data-testid="stSidebar"] {
-            background-color: #374151 !important;   /* Tailwind Grey 700 */
+            background-color: #374151 !important;   /* tailwind grey */
             color: #ffffff !important;              /* white text */
         }
 
@@ -86,7 +87,7 @@ st.markdown("""
         }
     }
 
-    /* Remove number spinner buttons */
+    /* remove number spinner buttons */
     input[type=number]::-webkit-inner-spin-button,
     input[type=number]::-webkit-outer-spin-button {
         -webkit-appearance: none;
@@ -181,7 +182,7 @@ if sort_option == "Price: Low to High":
     df_filtered = df_filtered.sort_values("median_price", ascending=True)
 elif sort_option == "Price: High to Low":
     df_filtered = df_filtered.sort_values("median_price", ascending=False)
-# "Default" will leave the current order as is
+# Default -> leave the current order as is
    
 
 
@@ -202,7 +203,7 @@ st.markdown(f"### 🔎 {len(df_filtered)} neighbourhoods match your search")
 if df_filtered.empty:
     st.warning("No results found. Please adjust your filters.")
 else:
-    cols = st.columns(3)
+    cols = st.columns(3) # three results per row 
     for i, (_, row) in enumerate(df_filtered.iterrows()):
         j = i % 3
         map_key = f"show_map_{i}"
@@ -211,7 +212,7 @@ else:
 
         with cols[j]:
             if st.session_state[map_key]:
-                # MAP VIEW
+                # MAP!!!
                 st.markdown(
                     f"""
                     <div style='background-color:#f9f9f9; border-radius:10px; padding:10px; border:1px solid #ccc;'>
